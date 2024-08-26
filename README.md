@@ -20,7 +20,9 @@ BatchRepeater is a BurpSuite extension that enhances the functionality of the Re
 2. Send to Repeater:
    * Choose the "Send all to Repeater" option from the context menu.
    * The selected requests will be sent to the Repeater tool for further analysis.
-
+     
+     ![BatchRepeater](https://github.com/user-attachments/assets/fba5de50-1ff7-42b1-93ce-b432e905f99a)
+     
 ## Requirements ##
    * BurpSuite: Professional or Community Edition.
    * Java: Version 21 or higher.
